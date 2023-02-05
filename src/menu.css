@@ -1,0 +1,22 @@
+#nasty{
+    height:35vh;
+    width:20vw;
+    
+}
+.iGroup {
+  
+   display: flex;
+   align-content:center;
+   justify-content: center;
+    
+   
+    
+}
+#botones {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    gap:8vh;
+    
+}
+
